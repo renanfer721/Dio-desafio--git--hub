@@ -1,0 +1,7 @@
+Adicionando Repositório Remoto
+Crie um repositório no site Github e copie o link
+abra o git bash 
+Execut o comando git remote add origin "link do repositó remoto"
+Execute o comando git remote -v para listar os repositórios cadastrados no  git
+Execute o comando git status para ver se esta tudo ok
+Execute o comando git push  origin master  para empurrar  o repositorio  local para  o repositorio remoto
