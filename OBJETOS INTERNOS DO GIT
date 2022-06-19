@@ -1,0 +1,15 @@
+Blobs
+Contém metadados do Git
+Tipo do objeto
+Tamanho do arquivo
+O conteúdo di  arquivo ( texto ou binário)
+
+
+"Trees"
+A "Tree" é responsável por montar toda a estrutura d e onde  estão os arquivos,ou seja as trees"
+armazenam  "blobs"
+
+COMIT
+Ele é o objeto que juntarrá tudo , que vai dar sentido para o que  esta fazendo.
+
+
